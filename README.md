@@ -1,5 +1,9 @@
 This repository contains helpful examples to get started with using React as a front-end UI extensions. This is available as public beta under [developer beta terms & agreements](https://legal.hubspot.com/developerbetaterms).
 
+<!-- Start of HubSpot Embed Code -->
+  <script type="text/javascript" id="hs-script-loader" async defer src="//js-eu1.hs-scripts.com/147530924.js"></script>
+<!-- End of HubSpot Embed Code -->
+
 Over the last year, we have received invaluable feedback from our beta participants and active community developers about custom cards available through the CRM development beta. We heard loud and clear that you need:
 
 - More flexible & interactive front-end to handle complex use cases
@@ -72,3 +76,4 @@ Prettier can be set up to run in your editor each time you save a file. Prettier
 ```
 npx prettier --write .
 ```
+https://js-eu1.hs-scripts.com/147530924.js
